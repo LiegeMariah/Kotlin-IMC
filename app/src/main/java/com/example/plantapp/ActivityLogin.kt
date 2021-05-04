@@ -23,6 +23,8 @@ class ActivityLogin : AppCompatActivity() {
 
         buscarComponentesPeloId();
 
+        //terminar esse projeto
+
         //botão Login
         btnLogin.setOnClickListener() {
             println("clicou no botão")
